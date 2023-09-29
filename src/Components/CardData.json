@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Fish Tank",
+        "amount" : "$100.00 - $180.00",
+        "image" : "https://i5.walmartimages.com/asr/44ce5edf-8f22-4b1e-968d-d60ba6b7d8eb.563d87ee5eb7b74b9955fc3f0dc83ee3.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+        "name" : "Book",
+        "amount" : "$400.00 - $800.00",
+        "image" : "https://assets2.panuval.com/image/cache/catalog/1025/velpari-10004736-550x550.jpeg"
+    },
+    {
+        "name" : "Tab",
+        "amount" : "$200.00 - $500.00",
+        "image" : "https://m.media-amazon.com/images/I/91BJj3PspFL._AC_UY218_.jpg"
+    },
+    {
+        "name" : "Watch",
+        "amount" : "$40.00 - $200.00",
+        "image" : "https://www.mivi.in/assets/model-e/green.png"
+    },
+    {
+        "name" : "Mobile",
+        "amount" : "$10.00 - $25.00",
+        "image" : "https://www.thechennaimobiles.com/image/cache/catalog/14red1-600x600.jpg"
+    },
+    {
+        "name" : "Bag",
+        "amount" : "$10.00 - $20.00",
+        "image" : "https://assets.ajio.com/medias/sys_master/root/20220225/sPhC/62186968aeb26921afb6e5dc/-1117Wx1400H-469148005-tan-MODEL4.jpg"
+    },
+    {
+        "name" : "Car",
+        "amount" : "$50.00 - $80.00",
+        "image" : "https://c4.wallpaperflare.com/wallpaper/218/807/686/audi-car-yellow-cars-wallpaper-preview.jpg"
+    },
+    {
+        "name" : "Bluetooth Speaker",
+        "amount" : "$20.00 - $80.00",
+        "image" : "https://m.media-amazon.com/images/I/71vI6nfLtYL._AC_UY218_.jpg"
+    }
+]
